@@ -1,0 +1,36 @@
+body
+{
+	background-color: #3e4444;
+	background-image: url(img/fishing.gif);
+	background-size: 125%;
+	background-attachment: fixed;
+}
+
+a
+{
+	color: brown;
+	font-size: 25pt;
+}
+
+h2
+{
+	color: brown;
+	font-size:30;
+}
+
+p:hover
+{
+	color: brown;
+}
+
+p
+{
+	color: white;
+	font-family: serif;
+	font-size: 25pt;
+}
+
+p.fish
+{
+	color: brown;
+}
